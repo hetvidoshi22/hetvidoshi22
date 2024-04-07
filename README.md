@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="2000" height="350" src="https://github.com/hetvidoshi22/hetvidoshi22/blob/main/Hetvi%20Doshi%20Github%20Profile.png">
 <h1 align="center">Hi 👋, I'm Hetvi Doshi</h1>
 <h3 align="center">A passionate Python Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f3b04bcc5a6c38cefe94f011a982263fc8718412568f756362f903776c66d008/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">

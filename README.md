@@ -1,24 +1,21 @@
 <img align="center" alt="Coding" width="2000" height="350" src="https://github.com/hetvidoshi22/hetvidoshi22/blob/main/Hetvi%20Doshi%20Github%20Profile.png">
 <h1 align="center">Hi 👋, I'm Hetvi Doshi</h1>
-<h3 align="center">A passionate Python Programmer from India</h3>
+<h3 align="center">Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f3b04bcc5a6c38cefe94f011a982263fc8718412568f756362f903776c66d008/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvidoshi22&label=Profile%20views&color=0e75b6&style=flat" alt="hetvidoshi22" /> </p>
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently working on **Data Analysis Projects**
 
 - 🌱 I’m currently learning **Python & its libraries, Data Analysis**
 
-- 👯 I’m looking to collaborate on **python projects**
+- 👯 I’m looking to collaborate on **data analysis projects**
 
-- 🤝 I’m looking for help with **Data Science**
+- 💡 **Eager to collaborate** on impactful projects and connect with like minded.
 
-- 💬 Ask me about **Data Analysis and Machine Learning**
+- 📫 Reach out to me at **hetvidoshi2205@gmail.com**
 
-- 📫 How to reach me **hetvidoshi2205@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

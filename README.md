@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis and Machine Learning Projects**
 
-- 💡 **Eager to collaborate** on impactful projects and connect with like minded.
+- 💡 **Eager to collaborate** on impactful projects and connect with like minded people.
 
 - 📫 Reach out to me at **hetvidoshi2205@gmail.com**
 

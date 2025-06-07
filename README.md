@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="2000" height="350" src="https://github.com/hetvidoshi22/hetvidoshi22/blob/main/Hetvi%20Doshi%20Github%20Profile.png">
-<h1 align="center">Hi 👋, I'm Hetvi Doshi</h1>
-<h3 align="center">Data Science Enthusiast from India</h3>
+<h1 align="center">Hey there 👋, I'm Hetvi Doshi</h1>
+<h3 align="center">Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f3b04bcc5a6c38cefe94f011a982263fc8718412568f756362f903776c66d008/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">
 
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Data Analysis Projects**
 
-- 🌱 I’m currently learning **Python & its libraries, Data Analysis**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **data analysis projects**
+- 👯 I’m looking to collaborate on **data analysis projects and Machine Learning Projects**
 
 - 💡 **Eager to collaborate** on impactful projects and connect with like minded.
 

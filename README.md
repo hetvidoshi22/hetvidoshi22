@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **data analysis projects and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Data Analysis and Machine Learning Projects**
 
 - 💡 **Eager to collaborate** on impactful projects and connect with like minded.
 

@@ -1,5 +1,4 @@
 <h1 align="center">Heyy, I'm Hetvi Doshi</h1>
-<h3 align="center">An Aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvidoshi22&label=Profile%20views&color=0e75b6&style=flat" alt="hetvidoshi22" /> </p>
 

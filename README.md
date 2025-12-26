@@ -4,7 +4,7 @@
 
 - 🎓 B.E computer student **(Class of 2027) with a passion for Data Science & AI.**
 
-- 💡 I’m currently working on **Data Analysis and Machine Learning Projects**
+- 💡 I’m currently working on **Machine Learning Projects**
 
 - 🤝 Eager to collaborate **on impactful projects and connect with like minded people.**
 
